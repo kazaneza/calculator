@@ -129,7 +129,7 @@ And For tracking linter errors in REACT files run:
 
 ### Usage
 
-- Feel free to use this project.
+- Feel free to use this project
 
 <!-- AUTHORS -->
 
