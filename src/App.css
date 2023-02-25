@@ -8,7 +8,7 @@ body {
   margin: 8rem auto;
   background-color: rgba(255, 255, 255, 0.2);
   border-radius: 10px;
-  box-shadow: 0px 0px 10px 5px rgba(255, 255, 255, 0.1);
+  box-shadow: 0 0 10px 5px rgba(255, 255, 255, 0.1);
 }
 
 #exit {
@@ -19,7 +19,7 @@ body {
   font-size: xx-large;
   color: white;
   box-sizing: border-box;
-  border: none; 
+  border: none;
   outline: none;
   padding: 1rem;
   text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5);
@@ -39,12 +39,12 @@ body {
 }
 
 #digits > * {
-  border: none; 
+  border: none;
   background-color: rgba(255, 255, 255, 0.1);
   color: white;
   font-size: x-large;
   text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5);
-  cursor: pointer; 
+  cursor: pointer;
 }
 
 #digits :nth-child(4n) {
@@ -52,7 +52,7 @@ body {
 }
 
 #digits :last-child {
-  grid-column: span 2; 
+  grid-column: span 2;
 }
 
 #digits :active {
