@@ -1,28 +1,21 @@
 body {
-  background-color: black;
+  background-color: white;
 }
 
 #calculator {
   width: 60%;
   height: 35rem;
-  margin: 8rem auto;
-  background-color: rgba(255, 255, 255, 0.2);
-  border-radius: 10px;
-  box-shadow: 0 0 10px 5px rgba(255, 255, 255, 0.1);
+  margin: 8rem 16rem;
 }
 
 #exit {
   height: 18%;
   width: 80%;
-  background-color: transparent;
+  background-color: gray;
   text-align: right;
   font-size: xx-large;
   color: white;
   box-sizing: border-box;
-  border: none;
-  outline: none;
-  padding: 1rem;
-  text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5);
 }
 
 #input {
@@ -34,17 +27,13 @@ body {
 #digits {
   width: 100%;
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  gap: 0.5rem;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
 }
 
 #digits > * {
-  border: none;
-  background-color: rgba(255, 255, 255, 0.1);
-  color: white;
+  border: 1px solid gainsboro;
+  outline: none;
   font-size: x-large;
-  text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5);
-  cursor: pointer;
 }
 
 #digits :nth-child(4n) {
@@ -52,9 +41,9 @@ body {
 }
 
 #digits :last-child {
-  grid-column: span 2;
+  background-color: orange;
 }
 
-#digits :active {
-  transform: scale(0.9);
+#digits :nth-child(17) {
+  grid-column: span 2;
 }
