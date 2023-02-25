@@ -65,6 +65,14 @@ After you're finished please remove all the comments and instructions!
 - HTML
 - CSS
 
+## 🔭 Key Features <a name="future-features"></a>
+
+> Features I will add to the project.
+
+- [Components]
+
+
+
 ## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
