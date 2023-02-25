@@ -67,7 +67,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 🔭 Key Features <a name="future-features"></a>
 
-> Features I will add to the project.
+> Features in this project.
 
 - [Components]
 
