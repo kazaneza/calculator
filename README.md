@@ -70,6 +70,8 @@ After you're finished please remove all the comments and instructions!
 > Features in this project.
 
 - [Components]
+- [Hooks]
+- [Routers]
 
 
 
@@ -178,11 +180,8 @@ Give a ⭐️ if you like this project!
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Features I will add to the project.
+> All features are added, project is complet.
 
-- [Components]
-- [Events]
-- [refactors]
 
 
 ## 📝 License <a name="license"></a>
