@@ -7,7 +7,7 @@ const Home = () => (
       Calculators have not only greatly enhanced our ability to perform the
       regular computations that are involved in everyday life, but provided
       humans with the ability to understand mathematics on a greater scale than
-      ever imagined.
+      ever imgined.
     </p>
     <p>
       This technology allows students solve complicated problems quickly and in
