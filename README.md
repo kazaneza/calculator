@@ -95,7 +95,7 @@ In order to run this project you need:
 
 ### LIVE DEMO
 
-- See it live by clicking [Live Demo Link]()
+- See it live by clicking [Live Demo Link](https://effulgent-fudge-2a5dbc.netlify.app/)
 
 ### Setup
 
@@ -180,7 +180,8 @@ Give a ⭐️ if you like this project!
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> All features are added, project is complet.
+> Add some functionality.
+> Add styling.
 
 
 
